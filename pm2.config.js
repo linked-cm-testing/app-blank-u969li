@@ -8,7 +8,7 @@
 module.exports = {
   apps: [
     {
-      name: 'app',
+      name: 'blank-u969li-app',
       script: 'npm run server:prod',
       time: true,
       log_date_format: 'DD-MM-YYYY HH:mm Z',
